@@ -1,0 +1,8 @@
+ejecutar:
+
+source ~/.rvm/scripts/rvm
+rvm use 3.2.2 --default
+
+
+bundle exec jekyll serve
+
